@@ -22,3 +22,4 @@ def get_random(number=3):
 print(get_random(5))
 print(get_random())
 print(get_random())
+print(get_random(101))
